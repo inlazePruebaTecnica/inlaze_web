@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #1c1c1c;
+  --foreground: #ffc900;
+  --secondaryButton: #d8aa02;
+  --secondaryBackground: #eee;
+}
+
+body {
+  background-color: var(--background);
+}
